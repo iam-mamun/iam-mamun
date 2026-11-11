@@ -7,7 +7,7 @@
 ## Education
 
 **Jashore University of Science and Technology (JUST)**  
-*B.Sc. in Computer Science and Engineering; CGPA: 3.08/4.00 | Feb 2022 – Dec 2026 (Expected)*
+*B.Sc. in Computer Science and Engineering; CGPA: 3.12/4.00 | Feb 2022 – Dec 2026 (Expected)*
 
 Coursework: Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, Database Management Systems, Discrete Mathematics, Software Engineering
 
@@ -24,7 +24,7 @@ Coursework: Data Structures & Algorithms, OOP, Operating Systems, Computer Netwo
 
 ## Experience
 
-**Software Engineer (Contract, Remote)** — [LoskaMailbox](https://loskamailbox.com/dev-profile?token=click_on_loskamailbox.com_to_see_live) | Feb 2024 – Oct 2026  
+**Software Engineer (Contract, Remote)** — [LoskaMailbox](https://loskamailbox.com/dev-profile?token=click_on_loskamailbox.com_to_see_live) | May 2026 – Aug 2026  
 *Digital Goods & E-Commerce Platform*
 
 Worked as the sole developer on a platform that handles 2,000+ daily orders and $10,000–$15,000 USD/month in revenue across 100+ regular buyers.
